@@ -2,9 +2,7 @@
   "Role": [
     {
       "RoleName": "Database Administrator",
-      "RoleDescription": "You may be interested in taking up the role of a database administrator (aka a DBA) in your upcoming project.Thats great! A DBA has many responsibilities including managing and ensuring all databases are up and running, approving people to query and work on those databases, and utilizing a large skillset.
-        
-            Here at GMU, and specifically within the IT major, this role would be best suited for someone concentrating in database technology and programming.",
+      "RoleDescription": "You may be interested in taking up the role of a database administrator (aka a DBA) in your upcoming project.Thats great! A DBA has many responsibilities including managing and ensuring all databases are up and running, approving people to query and work on those databases, and utilizing a large skillset. Here at GMU, and specifically within the IT major, this role would be best suited for someone concentrating in database technology and programming.",
       "RoleSkills":"Some skills for a Database Administrator include:\n 1) Data Modeling and Database Design\n 2) Backup and Recovery\n 3) Data Security\n 4) General Data Management\n 5)SQL Knowledge",
       "RoleImage": "https://as2.ftcdn.net/v2/jpg/02/60/28/05/1000_F_260280544_DrihtjalTvmNlkWLxrHVoES9dcKj6DcA.jpg",
       "RoleWebsite": "https://www.oracle.com/database/what-is-a-dba/"
@@ -12,36 +10,28 @@
 
     {
       "RoleName": "Developer",
-      "RoleDescription": "A developer plays a very important role in technical projects. He/she helps bring the project to life by utilizing a broad range of programming languages and design practices to create working software. Some responsibilities of a developer include designing and building programs, identifying requirements, fixing bugs/errors, and maintaining the codebase.
-            
-                    If you are someone who likes to solve problems, this role may be for you!",
+      "RoleDescription": "A developer plays a very important role in technical projects. He/she helps bring the project to life by utilizing a broad range of programming languages and design practices to create working software. Some responsibilities of a developer include designing and building programs, identifying requirements, fixing bugs/errors, and maintaining the codebase. If you are someone who likes to solve problems, this role may be for you!",
       "RoleSkills":"Some skills for a Developer include:\n 1) Software Design and Analysis\n 2) Development in Selected Programming Language\n 3)Time Management\n 5)Critical Thinking",
       "RoleImage": "https://as1.ftcdn.net/v2/jpg/01/27/62/10/1000_F_127621002_0EQfE7omvvKWyeOwU10PLJuRvnXfDon4.jpg",
       "RoleWebsite": "https://in.indeed.com/career-advice/finding-a-job/what-is-a-software-developer"
     },
     {
       "RoleName": "Project Manager",
-      "RoleDescription": " A project manager (PM) can be thought of as the leader of a technical project. They ensure that the project is on task and that all deliverables are being completed in a timely fashion. By following different frameworks and guidelines, PMs can see to it that a project is throughly completed for all stakeholders.
-                    
-                    If you are someone who is task-oriented and can see the bigger picture, make sure you consider the role of a project manager!",
+      "RoleDescription": " A project manager (PM) can be thought of as the leader of a technical project. They ensure that the project is on task and that all deliverables are being completed in a timely fashion. By following different frameworks and guidelines, PMs can see to it that a project is throughly completed for all stakeholders. If you are someone who is task-oriented and can see the bigger picture, make sure you consider the role of a project manager!",
       "RoleSkills":"Some skills for a Project Manager Include:\n 1)Communication\n 2)Leadership\n 3)Organization\n 4)Problem Solving\n 5)Detail-Oriented",
       "RoleImage": "https://as1.ftcdn.net/v2/jpg/05/38/32/00/1000_F_538320039_ftM9jbZNtpgtpkRCUdjDKpLeEtFHopwC.jpg",
       "RoleWebsite": "https://www.teamwork.com/project-management-guide/what-does-a-project-manager-do/"
     },
     {
       "RoleName": "Business Analyst",
-      "RoleDescription": "A Business Analyst is can be thought of as the crossroads where business needs and IT meet. Generally, a BA assesses how companies are performing and attempts to predict future business needs. A BA utilizes cutting edge analytical tools including SQL and data mining to generate reports and dashboards.
-        
-                This position may be right for you if you enjoy SQL and have a business savvy mind!",
+      "RoleDescription": "A Business Analyst is can be thought of as the crossroads where business needs and IT meet. Generally, a BA assesses how companies are performing and attempts to predict future business needs. A BA utilizes cutting edge analytical tools including SQL and data mining to generate reports and dashboards. This position may be right for you if you enjoy SQL and have a business savvy mind!",
       "RoleSkills":"Some skills for a BA Include:\n 1)SQL and Data Analytics\n 2)Written and Communication Skills\n 3)Report Skills (Including Excel + Office 365)\n 4)Critical Thinking\n 5)Organizational Skills",
       "RoleImage": "https://as2.ftcdn.net/v2/jpg/05/31/72/81/1000_F_531728195_weaaM1CriROvxfzvcQeAVJI91RC3upjU.jpg",
       "RoleWebsite": "https://www.indeed.com/hire/c/info/what-does-a-business-analysts-do"
     },
     {
      "RoleName": "Security Analyst",
-      "RoleDescription": "A security analyst leverages current security policy, frameworks, and best practices to ensure a corportations safety in the cyber domain. As the risk for breaches, DDoS attacks, and phishing attempts rise, corporations have begun to ensure a robust cyber-security presence.
-                    
-                If IT safety is a big priority for you, you may want to consider a role as a Security Analyst!",
+      "RoleDescription": "A security analyst leverages current security policy, frameworks, and best practices to ensure a corportations safety in the cyber domain. As the risk for breaches, DDoS attacks, and phishing attempts rise, corporations have begun to ensure a robust cyber-security presence. If IT safety is a big priority for you, you may want to consider a role as a Security Analyst!",
       "RoleSkills":"Some skills for a SA Include:\n 1)Scripting\n 2)Network Security\n 3)DevOps\n 4)Controls and Frameworks\n 5)Operating Systems",
       "RoleImage": "https://as2.ftcdn.net/v2/jpg/01/86/88/55/1000_F_186885581_L6Lg0rajIcxiUKrWKQ0bAvCEr4qvHdWS.jpg",
       "RoleWebsite": "https://digitalguardian.com/blog/what-security-analyst-responsibilities-qualifications-and-more"
